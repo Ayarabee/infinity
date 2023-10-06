@@ -19,8 +19,8 @@ class HomeCubit extends Cubit<HomeState> {
   ];
   List<String>pagesName=[
     "Categories",
-    "Info",
-    "Profile",
+    "Posts",
+    "Add post",
     "Mission & Tools"
   ];
   changeNavBarIndex(int index){
